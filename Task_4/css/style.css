@@ -1,0 +1,25 @@
+/* .hero {
+    background: url('https://via.placeholder.com/1500x500') no-repeat center center;
+    background-size: cover;
+} */
+.navbar{
+    background-color:#f4511e;
+}
+.start{
+    background-color: #f4511e;
+}
+
+.row .card-header {
+    background-color: #f4511e;
+}
+.row .card .btn{
+    background-color: #f4511e;
+
+}
+#hov:hover{
+    background-color:rgb(210, 213, 215);
+    
+
+
+    
+}
